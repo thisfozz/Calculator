@@ -10,7 +10,6 @@ namespace Calculator
     {
         private string currentOperation = "";
         private double firstNumber = 0;
-        private double currentNumber = 0;
         private bool isAdding = false;
 
         public MainWindow()
